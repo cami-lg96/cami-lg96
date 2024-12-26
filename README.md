@@ -8,13 +8,13 @@ He empezado como ✨Desarrolladora Fullstack✨ con especialización en Frontend
 como React, Next.js y Tailwind CSS. En conjunto con mi experiencia anterios tengo  una perspectiva estratégica y orientada a resultados en el desarrollo de proyectos.
 Apasionada por el diseño UX/UI, trabajo en equipo y la resolución creativa de problemas, buscando siempre aportar valor y eficiencia a cada proyecto.
 
-⚡ Dato peculiar: tengo 7 perros y 3 gatos rescarados que fueron una de las razones que empese a buscar opciones laborales remotas para no tener que dejarlos solos por largos periodos.
+⚡ Dato peculiar: tengo 7 perros y 3 gatos rescatados que fueron una de las razones que empecé a buscar opciones laborales remotas para no tener que dejarlos solos por largos periodos.
 ✈️Soy brasilera pero vivo en Uruguay
 🌱 Estoy empezando a aprender react native, para ademas de hacer paginas web poder realizar apps. 
 
 📫 Puedes contactarme al: clg111996@gmail.com
 
-Encuentra me traves de https://www.linkedin.com/in/camilal-gonzalez/
+Encuentra me a través de https://www.linkedin.com/in/camilal-gonzalez/
 
 Tecnologias:
 
