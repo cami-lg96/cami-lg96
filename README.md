@@ -12,7 +12,7 @@ Apasionada por el diseño UX/UI, trabajo en equipo y la resolución creativa de 
 ✈️Soy brasilera pero vivo en Uruguay
 🌱 Estoy empezando a aprender react native, para ademas de hacer paginas web poder realizar apps. 
 
-📫 Puedes contactarme al: clg111996@gmail.com
+📫 Puedes contactarme al: camilg1196@gmail.com
 
 Encuentra me a través de https://www.linkedin.com/in/camilal-gonzalez/
 
